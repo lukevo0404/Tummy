@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <!-- saved from url=(0021)https://shibamoon.co/ -->
 <html data-wf-page="6099e35e1266ca1f33ecd150" data-wf-site="6099e35e1266ca357cecd14f" class="w-mod-js w-mod-ix wf-dmsans-n7-active wf-dmsans-n5-active wf-dmsans-n4-active wf-dmsans-i4-active wf-dmsans-i5-active wf-dmsans-i7-active wf-active"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta charset="utf-8">
+  <meta charset="utf-8">c
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="cache-control" content="no-cache" />
@@ -214,7 +214,7 @@
   </section>
   <section class="about about_single padding_section" id="about">
     <div class="container">
-      <div class="about_inner row">
+      <div class="about_inner row align-items-center">
         <div class="col-sm-7">
           <div class="about_contact wow  fadeInUp text-left"   data-wow-duration="800ms" data-wow-delay="200ms" style="">
             <h2><b><span>Why Tummy Coin?</span></b></h2>
@@ -225,10 +225,8 @@
 
         <div class="col-sm-5">
             <div class="about_image_main wow  zoomIn" data-wow-duration="600ms" data-wow-delay="200ms">
-            <img src="img/problems-graphic.png" alt="aboutimg4" class="img-responsive">
-            <div class="about_logo_icon">
-                      <img src="img/logo_main.png" alt="about_icon">
-                    </div>
+            <img src="img/tummy-coin-portal.png" alt="aboutimg4" class="img-responsive">
+            
           </div>
         </div>
       </div>
@@ -333,7 +331,7 @@
         </div>
 
         <div class="col-sm-5">
-          <div class="ch about_image_main wow  zoomIn"   data-wow-duration="600ms" data-wow-delay="200ms"><img src="img/charity1.png" alt="place your img" class="img-responsive wow FadeIn" data-wow-delay="0.2s">
+          <div class="ch about_image_main wow  zoomIn"   data-wow-duration="600ms" data-wow-delay="200ms"><img src="img/tummy-coin-food-charity.png" alt="place your img" class="img-responsive wow FadeIn" data-wow-delay="0.2s">
           </div>
         </div>
       </div>
@@ -600,7 +598,7 @@
             <h2>FAQ</h2>
           </div>
         </div>
-        <div class="faq_box clearfix">
+        <div class="faq_box clearfix row">
         <div class="col-sm-6">
 <div class="panel-group" id="accordion">
   <div class="panel panel-default wow  fadeIn" data-wow-duration="1000" data-wow-delay="200ms" >
@@ -643,7 +641,7 @@
   </div>
 </div>
 </div>
-<div class="col-sm-6"><img src="img/faq.png" class="img-responsive" /></div>
+<div class="col-sm-6"><img src="img/tummy-coin-faq.png" class="img-responsive" /></div>
 </div>
 </div>
 </div>
